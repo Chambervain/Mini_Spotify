@@ -1,1 +1,3 @@
-# This is the template of the spotify project
+# Android App  -  Music Player
+
+Kotlin / Jetpack / Hilt / Retrofit / MVVM / Exoplayer
